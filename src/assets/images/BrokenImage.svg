@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-Web_1920_2">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_2" data-name="Web 1920 – 2" clip-path="url(#clip-Web_1920_2)">
+    <rect width="1920" height="1080" fill="#e8e8e8"/>
+    <g id="Group_14" data-name="Group 14" transform="translate(-0.25 1.5)">
+      <text id="P" transform="translate(963.5 655.128)" fill="#505050" font-size="324" font-family="ArialRoundedMTBold, Arial Rounded MT"><tspan x="0" y="0">P</tspan></text>
+      <text id="S" transform="translate(1185.5 655.128)" fill="#505050" font-size="324" font-family="ArialRoundedMTBold, Arial Rounded MT"><tspan x="0" y="0">S</tspan></text>
+      <text id="_" data-name="!" transform="translate(1407.5 662.128)" fill="#505050" font-size="500" font-family="ArialRoundedMTBold, Arial Rounded MT"><tspan x="0" y="0">!</tspan></text>
+      <g id="Group_13" data-name="Group 13" transform="translate(6.991 -3)">
+        <g id="Group_12" data-name="Group 12">
+          <g id="Path_1" data-name="Path 1" transform="translate(683.158 760.253)" fill="#e8e8e8">
+            <path d="M 52.10088729858398 122.1190567016602 L 48.24156188964844 122.1190567016602 C 26.3279857635498 122.1190567016602 8.500011444091797 109.1905822753906 8.500011444091797 93.29933166503906 L 8.500011444091797 37.31973266601562 C 8.500011444091797 21.42848205566406 26.3279857635498 8.500007629394531 48.24156188964844 8.500007629394531 L 52.10088729858398 8.500007629394531 C 74.01445770263672 8.500007629394531 91.84243774414062 21.42848205566406 91.84243774414062 37.31973266601562 L 91.84243774414062 93.29933166503906 C 91.84243774414062 109.1905822753906 74.01445770263672 122.1190567016602 52.10088729858398 122.1190567016602 Z" stroke="none"/>
+            <path d="M 48.24154281616211 17 C 31.59884643554688 17 17.00000762939453 26.49520111083984 17.00000762939453 37.31973266601562 L 17.00000762939453 93.29933166503906 C 17.00000762939453 104.1238632202148 31.59884643554688 113.6190643310547 48.24154281616211 113.6190643310547 L 52.10087966918945 113.6190643310547 C 68.74357604980469 113.6190643310547 83.3424072265625 104.1238632202148 83.3424072265625 93.29933166503906 L 83.3424072265625 37.31973266601562 C 83.3424072265625 26.49520111083984 68.74357604980469 17 52.10087966918945 17 L 48.24154281616211 17 M 48.24154281616211 0 L 52.10087966918945 0 C 78.74394226074219 0 100.342414855957 16.70859527587891 100.342414855957 37.31973266601562 L 100.342414855957 93.29933166503906 C 100.342414855957 113.9104309082031 78.74394226074219 130.6190643310547 52.10087966918945 130.6190643310547 L 48.24154281616211 130.6190643310547 C 21.59848022460938 130.6190643310547 7.62939453125e-06 113.9104309082031 7.62939453125e-06 93.29933166503906 L 7.62939453125e-06 37.31973266601562 C 7.62939453125e-06 16.70859527587891 21.59848022460938 0 48.24154281616211 0 Z" stroke="none" fill="#505050"/>
+          </g>
+          <rect id="Rectangle_4" data-name="Rectangle 4" width="17.769" height="84.664" rx="8.884" transform="translate(725.332 765.444)" fill="#505050"/>
+          <rect id="Rectangle_6" data-name="Rectangle 6" width="103" height="36" transform="translate(680.5 758.128)" fill="#e8e8e8"/>
+        </g>
+        <path id="Path_2" data-name="Path 2" d="M0,0H299.982" transform="translate(483.518 785.776)" fill="none" stroke="#505050" stroke-width="20"/>
+      </g>
+      <g id="Group_9" data-name="Group 9" transform="translate(-29.5 12.128)">
+        <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(375 412)" fill="none" stroke="#505050" stroke-width="27">
+          <circle cx="142.5" cy="142.5" r="142.5" stroke="none"/>
+          <circle cx="142.5" cy="142.5" r="129" fill="none"/>
+        </g>
+        <g id="Group_7" data-name="Group 7" transform="translate(1.49)">
+          <rect id="Rectangle_7" data-name="Rectangle 7" width="31" height="126" transform="translate(549.598 501.189) rotate(45)" fill="#505050"/>
+          <rect id="Rectangle_8" data-name="Rectangle 8" width="31" height="126" transform="translate(460.503 523.109) rotate(-45)" fill="#505050"/>
+        </g>
+      </g>
+      <g id="Group_10" data-name="Group 10" transform="translate(-29.5 12.128)">
+        <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(670 412)" fill="none" stroke="#505050" stroke-width="27">
+          <circle cx="142.5" cy="142.5" r="142.5" stroke="none"/>
+          <circle cx="142.5" cy="142.5" r="129" fill="none"/>
+        </g>
+        <g id="Group_8" data-name="Group 8" transform="translate(296.49)">
+          <rect id="Rectangle_7-2" data-name="Rectangle 7" width="31" height="126" transform="translate(549.598 501.189) rotate(45)" fill="#505050"/>
+          <rect id="Rectangle_8-2" data-name="Rectangle 8" width="31" height="126" transform="translate(460.503 523.109) rotate(-45)" fill="#505050"/>
+        </g>
+      </g>
+      <rect id="Rectangle_9" data-name="Rectangle 9" width="735" height="110" rx="50" transform="translate(840 767)" fill="#6b6b6b"/>
+      <text id="متاسفانه_تصویر_در_دسترس_نیست" data-name="متاسفانه تصویر در دسترس نیست" transform="translate(875 834)" fill="#fff" font-size="50" font-family="IRANSans"><tspan x="0" y="0">متاسفانه تصویر در دسترس نیست</tspan></text>
+    </g>
+  </g>
+</svg>

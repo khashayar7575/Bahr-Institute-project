@@ -1,0 +1,49 @@
+/* .pagination {
+  @apply px-4 sm:px-0 flex
+}
+.pageLink {
+ @apply text-gray-500 px-4 py-2 block
+}
+
+.pageItem {
+  @apply float-right border-b-2 border-transparent
+}
+
+.pageLinkHandler {
+  @apply text-xl text-gray-500 border-b-2 border-transparent px-3 py-2 block
+}
+
+.pageItem.active {
+ @apply border-b-2 border-teal-600
+}
+
+.pageItem:hover {
+  @apply bg-gray-50 
+ }
+
+.pageItem:hover .pageLink, .pageItem:hover .pageLinkHandler {
+  @apply text-gray-800
+ } */
+
+ .pagination {
+  @apply px-4 sm:px-0 flex;
+}
+.pageLink {
+  @apply px-4 py-2 block ;
+}
+
+.pageItem {
+  @apply float-right border-2 border-transparent mx-1 rounded-md ;
+}
+
+.pageLinkHandler {
+  @apply text-xl text-[#303030] border-b-2 border-transparent px-3 py-2 block;
+}
+
+.pageItem.active {
+  @apply rounded-full pt-0.5 bg-[#303030] text-white;
+}
+
+.pageItem:hover {
+  @apply cursor-pointer  ;
+}

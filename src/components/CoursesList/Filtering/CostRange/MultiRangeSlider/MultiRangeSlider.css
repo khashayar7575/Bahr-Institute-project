@@ -1,0 +1,21 @@
+.thumb,
+.thumb::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* For Chrome browsers */
+.thumb::-webkit-slider-thumb {
+  @apply border-none rounded-full cursor-pointer h-[18px] w-[18px] mt-1 relative;
+  background-color: #f1f5f7;
+  box-shadow: 0 0 1px 1px #ced4da;
+  pointer-events: all;
+}
+
+/* For Firefox browsers */
+.thumb::-moz-range-thumb {
+  @apply border-none rounded-full cursor-pointer h-[18px] w-[18px] mt-1 relative;
+  background-color: #f1f5f7;
+  box-shadow: 0 0 1px 1px #ced4da;
+  pointer-events: all;
+}
