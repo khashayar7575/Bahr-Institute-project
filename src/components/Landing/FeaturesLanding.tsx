@@ -18,18 +18,22 @@ const FeaturesLanding = () => {
   }
   const featureObject = [
     {
+      id:1,
       title: 'تست',
       text: 'رای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهب',
     },
     {
+      id:2,
       title: 'تست',
       text: 'رای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهب',
     },
     {
+      id:3,
       title: 'تست',
       text: 'رای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهب',
     },
     {
+      id:4,
       title: 'تست',
       text: 'رای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهب',
     },
@@ -38,7 +42,7 @@ const FeaturesLanding = () => {
     <div className='relative '>
       <div className=' grid grid-cols-2 sm:grid-cols-1 gap-x-3 gap-y-3 md:gap-y-10 lg:gap-y-24 xl:gap-y-40 2xl:gap-y-52  '>
         {featureObject.map((featue, index) => (
-          <div className={' w-full flex ' + (index % 2 !== 0 ? 'justify-end' : 'justify-start')}>
+          <div key={featue.id} className={' w-full flex ' + (index % 2 !== 0 ? 'justify-end' : 'justify-start')}>
             <div className='group relative w-full sm:w-80 lg:w-96 space-y-6 border border-gray-100  rounded-2xl px-4 py-4 text-center shadow-2xl shadow-gray-600/10 '>
               <div className=' absolute z-0 rounded-2xl  left-0 top-0 bg-white w-full h-full opacity-70'></div>
               <div className='relative z-10 '>

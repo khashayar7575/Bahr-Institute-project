@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 
 import { Title } from '../../common/Title'
 
-import alirezapic from '../../../assets/images/Alireza.jpg'
+import alirezapic from '../../../assets/images/khashayar.jpg'
 import rezapic from '../../../assets/images/Reza.jpg'
 import atefehpic from '../../../assets/images/Atefeh.jpg'
 import { Image } from '../../common/CustomImage/Image'
@@ -17,7 +17,7 @@ const OurTeam = () => {
     },
     {
       imageSource: alirezapic,
-      fullName: 'علیرضا کریمی',
+      fullName: 'خشایار عاشوری',
       proficiency: 'توسعه دهنده فرانت اند',
     },
     {

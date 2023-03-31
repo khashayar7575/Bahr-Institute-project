@@ -16,10 +16,10 @@ const StatsLanding = () => {
     },
   }
   const statestic = [
-    { title: 'test', amont: '123' },
-    { title: 'test1', amont: '123' },
-    { title: 'test2', amont: '123' },
-    { title: 'test3', amont: '123' },
+    {id:1,title: 'test', amont: '123' },
+    {id:2, title: 'test1', amont: '123' },
+    {id:3, title: 'test2', amont: '123' },
+    {id:4, title: 'test3', amont: '123' },
   ]
   return (
     <section className=' relative text-gray-800 '>
@@ -40,7 +40,7 @@ const StatsLanding = () => {
         className='grid grid-cols-4  mt-4'
       >
         {statestic.map((item) => (
-          <div className=' flex flex-col text-center '>
+          <div key={item.id} className=' flex flex-col text-center '>
             <p className='capitalize'>{item.title}</p>
             <p className='text-3xl font-semibold leading-none '>{item.amont}</p>
           </div>
